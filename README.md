@@ -24,27 +24,15 @@ Estou sempre em busca de resolver problemas complexos através de código limpo 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-No mundo dev, os números também contam uma história:
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Math2SystemsDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math2SystemsDev&layout=compact&langs_count=7&theme=dracula" />
-</p>
-
----
-
 ### 🏆 Projetos em Destaque
 
 1.  **[Nexovatech-BR]** - [Link para o Repositório](https://github.com/Math2SystemsDev/nexovatech-br)
     - *O que é:* SEO - meta tags personalizadas para mecanismos de busca
     - *Tecnologias:* html, css e javascript
 
-
 ---
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/matheus-farias-31501b324/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-farias-31501b324/)
 ---
