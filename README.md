@@ -1,15 +1,16 @@
-# Olá, eu sou o [Matheus Farias]! 👋
+# Olá, eu sou o Matheus Farias! 👋
 
-### [Full Stack Developer | Backend Enthusiast | Data Analytics]
+### Full Stack Developer | Backend Enthusiast | Data Analytics
 
-Estou sempre em busca de resolver problemas complexos através de código limpo e eficiente. Atualmente focado em aprimorar minhas habilidades em **[Backend]** e contribuir para projetos de código aberto.
+Estou sempre em busca de resolver problemas complexos através de código limpo e eficiente. Atualmente focado em aprimorar minhas habilidades em **Backend** e contribuir para projetos de código aberto.
 
 ---
 
-### 🚀 Sobre Mim
-- 💬 Pergunte-me sobre **[javascript]**.
-- 📫 Como me encontrar: **[Whatsapp: +5511932551688]**.
-- ⚡ Curiosidade: **[Adoro aprender sobre novas tecnologias]**.
+### 🏆 Projetos em Destaque
+
+1.  **Nexovatech-BR** - [Link para o Repositório](https://github.com/Math2SystemsDev/nexovatech-br)
+    - *O que é:* SEO - meta tags personalizadas para mecanismos de busca + site completo
+    - *Tecnologias:* html, css e javascript
 
 ---
 
@@ -24,15 +25,9 @@ Estou sempre em busca de resolver problemas complexos através de código limpo 
 
 ---
 
-### 🏆 Projetos em Destaque
-
-1.  **[Nexovatech-BR]** - [Link para o Repositório](https://github.com/Math2SystemsDev/nexovatech-br)
-    - *O que é:* SEO - meta tags personalizadas para mecanismos de busca
-    - *Tecnologias:* html, css e javascript
-
----
-
-### 📫 Vamos nos conectar?
-
+### 📫 Vamos nos conectar? 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-farias-31501b324/)
+
 ---
+- 📫 Como me encontrar: **Whatsapp: +5511932551688**.
+- 📫 Como me contratar: **Email: math.systems.dev@gmail.com**
