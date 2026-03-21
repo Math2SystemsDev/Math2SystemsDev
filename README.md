@@ -5,6 +5,9 @@
 Estou sempre em busca de resolver problemas complexos através de código limpo e eficiente. Atualmente focado em aprimorar minhas habilidades em **Backend** e contribuir para projetos de código aberto.
 
 ---
+[![My GitHub stats]
+(https://github-readme-stats.vercel.app/api?username=math2systemsdev)](https://github.com/math2systemsdev/github-readme-stats)
+
 
 ### 🏆 Projetos em Destaque
 
