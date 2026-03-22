@@ -25,8 +25,6 @@ Estou sempre em busca de resolver problemas complexos através de código limpo 
 
 ---
 
-![Math2SystemsDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Math2SystemsDev&show_icons=true&theme=radical)
-
 ### 📫 Vamos nos conectar? 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-farias-31501b324/)
 
